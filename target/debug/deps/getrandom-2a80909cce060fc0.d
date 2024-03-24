@@ -1,0 +1,10 @@
+/Users/reynantolentino/Desktop/VSCode/rnix/target/debug/deps/libgetrandom-2a80909cce060fc0.rmeta: /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/macos.rs
+
+/Users/reynantolentino/Desktop/VSCode/rnix/target/debug/deps/getrandom-2a80909cce060fc0.d: /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs /Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/macos.rs
+
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs:
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs:
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs:
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs:
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs:
+/Users/reynantolentino/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/macos.rs:

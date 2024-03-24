@@ -1,4 +1,3 @@
-workspace = { members = [ "execs" ] }
 [package]
 name = "rnix"
 version = "0.1.0"
